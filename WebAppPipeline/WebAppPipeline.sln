@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppPipeline", "WebAppPipeline\WebAppPipeline.csproj", "{54942343-8A05-4DD2-98E5-9E1DFB171FFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54942343-8A05-4DD2-98E5-9E1DFB171FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54942343-8A05-4DD2-98E5-9E1DFB171FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54942343-8A05-4DD2-98E5-9E1DFB171FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54942343-8A05-4DD2-98E5-9E1DFB171FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4777095F-5C0C-4326-9056-DE54DD0366B8}
+	EndGlobalSection
+EndGlobal
